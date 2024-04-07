@@ -183,6 +183,7 @@ public void elevatorMove(Boolean three, Boolean five) {
         elevator.set(-0.15);
       }
     }else if (sourceReady) {
+      //Gadagedigadagadio i been married long time ago
       if (EE.getPosition() > -600) {
          eleOn = true;
         elevator.set(-.30);
